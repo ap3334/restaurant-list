@@ -4,4 +4,26 @@
 <br>
 
 ## ⏲ 프로젝트 기간
-- 2022.0
+- 2022.04.01 ~ 2022.04.04 (4일)
+
+<br>
+
+## ⚙️ 기술 스택
+
+- Front
+  - JS
+  - HTML
+
+- Backend
+  - JAVA
+  - Spring Boot
+  - Naver API
+
+- 개발 환경
+  - Intelli J
+
+<br>
+
+## 🖼 설계
+
+- [기능 명세서]()
