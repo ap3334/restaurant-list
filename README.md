@@ -26,4 +26,4 @@
 
 ## 🖼 설계
 
-- [기능 명세서]()
+- [기능 명세서](https://github.com/ap3334/restaurant-list/blob/master/spec.md)
